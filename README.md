@@ -1,11 +1,9 @@
 # Rent_real_estate_Gala
-Final project phase 0
+**Final project phase 0**
 
 **Индивидуальный кейс.**
 
-<img src="Data/image.jpg" alt="Аналитики они такие =)" width="200px">
-![hard work](Data/image.jpg)
-
+<img src="Data/image.jpg" alt="Аналитики они такие =)" width="300px">
 
 
 Необходимо подготовить данные для разработчиков ML. На результатах работы они будут учить модели предсказывать стоимость аренды квартир.
