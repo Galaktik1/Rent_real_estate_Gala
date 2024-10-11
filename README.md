@@ -1,8 +1,9 @@
 # Rent_real_estate_Gala
 Final project phase 0
-Индивидуальный кейс.
 
-<img src="Data/image.jpg" alt='' width="300"
+**Индивидуальный кейс.**
+
+<img src="Data/image.jpg" alt="Аналитики они такие =)" width="200px">
 ![hard work](Data/image.jpg)
 
 
