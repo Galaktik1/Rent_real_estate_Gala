@@ -1,7 +1,7 @@
 # Rent_real_estate_Gala
 **Final project phase 0**
 
-**Индивидуальный кейс. Автор: Галина Щуркова**
+**Индивидуальный кейс. Автор: Галя Щуркова**
 
 <img src="Data/image.jpg" alt="Аналитики они такие =)" width="350px">
 
